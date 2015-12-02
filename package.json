@@ -1,0 +1,22 @@
+{
+  "name": "turbo-images",
+  "version": "1.0.0",
+  "description": "Servers images from amazon S3 with options to resize, crop and blurring.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michelalbers/turbo-images"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel Albers <technik@interwebs-ug.de>",
+  "license": "WTFPL",
+  "dependencies": {
+    "aws-sdk": "^2.2.20",
+    "finalhandler": "^0.4.0",
+    "jpegtran": "^0.2.0",
+    "router": "^1.1.3",
+    "sharp": "^0.12.0"
+  }
+}
