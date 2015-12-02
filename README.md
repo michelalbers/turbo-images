@@ -16,7 +16,7 @@ sharp (https://github.com/lovell/sharp) and optimizes them with jpegtran (http:/
 
 Just call the server with the following format:
 
-    http://images.yourapp.com/<width>/<effect>/key/for/your/image.jpg
+    http://images.yourapp.com:8080/<width>/<effect>/key/for/your/image.jpg
 
 **NOTE: Effects are currently not implemented. So just pass 'none' for <effect>.**
 
