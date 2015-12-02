@@ -18,6 +18,6 @@ Just call the server with the following format:
 
     http://images.yourapp.com:8080/<width>/<effect>/key/for/your/image.jpg
 
-**NOTE: Effects are currently not implemented. So just pass 'none' for <effect>.**
+**NOTE: Effects are currently not implemented. So just pass 'none' for effect.**
 
 (c) 2015 - Interwebs UG haftungsbeschränkt
