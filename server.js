@@ -11,7 +11,6 @@
   // Require dependencies
   var sharp = require('sharp'),
       router = require('router'),
-      stream = require('stream'),
       http = require('http'),
       aws = require('aws-sdk'),
       jpegtran = require('jpegtran'),
